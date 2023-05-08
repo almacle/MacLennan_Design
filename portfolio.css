@@ -339,8 +339,17 @@ overflow-y:scroll;
         grid-column:span 12;
         height: 1325px;
     }
+    #intro p{
+        font-size:4.0vw;
+    }
+    #intro h2{
+        font-size:4.5vw;
+    }
+    article p{
+        font-size:4vw;
+    }
     .group p{
-        font-size: 3.5vw;
+        font-size: 4.0vw;
     }
     .group h3{
         font-size: 4.7vw;
@@ -353,5 +362,9 @@ overflow-y:scroll;
     }
     .full{
         height: 600px;
+    }
+    .transpBlock ul{
+        width: 400vw;
+        height: 4.0vw;
     }
 }
